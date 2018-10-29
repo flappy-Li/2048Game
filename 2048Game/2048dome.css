@@ -1,0 +1,16 @@
+body,html,div {
+	margin: 0;
+	padding: 0;
+}
+.my2048 {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	background:#bbada0;
+}
+.my2048 div {
+	display: inline-block;
+	position: absolute;
+	border:0px;
+	border-radius: 5px;
+}
